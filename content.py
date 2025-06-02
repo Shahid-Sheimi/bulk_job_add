@@ -16,7 +16,7 @@ app.add_middleware(
     allow_headers=["*"],  # Allows all headers
 )
 
-openai.api_key = "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 "
+openai.api_key = "vtunDOr-Okj3MlgVtATbdDCSWsuCKolyED-PFcTd7XVAA "
 PROMPT_TEMPLATE = """
 You are an expert career coach and professional content writer.
 
